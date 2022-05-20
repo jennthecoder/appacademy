@@ -1,0 +1,19 @@
+input {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+
+}
+.btn-container {
+    margin: auto;
+}
+#btn {
+    padding: 10px;
+    background-color: #5cdb5c;
+    border: none;
+    color: #ffffff;
+}
